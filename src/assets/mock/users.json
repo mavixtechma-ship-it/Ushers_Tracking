@@ -1,0 +1,152 @@
+[
+ {
+  "id": 1,
+  "name": "Victor Sato",
+  "email": "victor.sato@example.com",
+  "phone": "+1 555-0100",
+  "role": "SuperAdmin",
+  "title": "Operations Director",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 2,
+  "name": "Ryan Hale",
+  "email": "ryan.hale@example.com",
+  "phone": "+1 555-0101",
+  "role": "Admin",
+  "title": "Operations Admin",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 3,
+  "name": "Lucas Brooks",
+  "email": "lucas.brooks@example.com",
+  "phone": "+1 555-0102",
+  "role": "Admin",
+  "title": "Operations Admin",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 4,
+  "name": "Isla Larsen",
+  "email": "isla.larsen@example.com",
+  "phone": "+1 555-0103",
+  "role": "SupervisorAdmin",
+  "title": "Field Supervisor Lead",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 5,
+  "name": "Nora Rahman",
+  "email": "nora.rahman@example.com",
+  "phone": "+1 555-0104",
+  "role": "Supervisor",
+  "title": "Area Supervisor",
+  "agency": "Stellar Merchandising",
+  "is_active": true
+ },
+ {
+  "id": 6,
+  "name": "Maya Costa",
+  "email": "maya.costa@example.com",
+  "phone": "+1 555-0105",
+  "role": "Supervisor",
+  "title": "Area Supervisor",
+  "agency": "Brightpath Talent",
+  "is_active": true
+ },
+ {
+  "id": 7,
+  "name": "Noah Sato",
+  "email": "noah.sato@example.com",
+  "phone": "+1 555-0106",
+  "role": "Supervisor",
+  "title": "Area Supervisor",
+  "agency": "Acme Staffing",
+  "is_active": true
+ },
+ {
+  "id": 8,
+  "name": "Nadia Ortega",
+  "email": "nadia.ortega@example.com",
+  "phone": "+1 555-0107",
+  "role": "Supervisor",
+  "title": "Area Supervisor",
+  "agency": "Globex Field Services",
+  "is_active": true
+ },
+ {
+  "id": 9,
+  "name": "Mila Shaw",
+  "email": "mila.shaw@example.com",
+  "phone": "+1 555-0108",
+  "role": "Supervisor",
+  "title": "Area Supervisor",
+  "agency": "Initech Promotions",
+  "is_active": true
+ },
+ {
+  "id": 10,
+  "name": "Ryan Brooks",
+  "email": "ryan.brooks@example.com",
+  "phone": "+1 555-0109",
+  "role": "Supervisor",
+  "title": "Area Supervisor",
+  "agency": "Umbra Retail Partners",
+  "is_active": false
+ },
+ {
+  "id": 11,
+  "name": "Mia Kovac",
+  "email": "mia.kovac@example.com",
+  "phone": "+1 555-0110",
+  "role": "FI",
+  "title": "Field Inspector",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 12,
+  "name": "Maya Novak",
+  "email": "maya.novak@example.com",
+  "phone": "+1 555-0111",
+  "role": "FI",
+  "title": "Field Inspector",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 13,
+  "name": "Omar Lowe",
+  "email": "omar.lowe@example.com",
+  "phone": "+1 555-0112",
+  "role": "Sales",
+  "title": "Sales Analyst",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 14,
+  "name": "Leila Moreau",
+  "email": "leila.moreau@example.com",
+  "phone": "+1 555-0113",
+  "role": "Sales",
+  "title": "Sales Analyst",
+  "agency": null,
+  "is_active": true
+ },
+ {
+  "id": 15,
+  "name": "Iris Carter",
+  "email": "iris.carter@example.com",
+  "phone": "+1 555-0114",
+  "role": "Sales",
+  "title": "Sales Analyst",
+  "agency": null,
+  "is_active": true
+ }
+]

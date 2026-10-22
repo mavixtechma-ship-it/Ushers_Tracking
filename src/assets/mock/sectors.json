@@ -1,0 +1,22 @@
+[
+ {
+  "id": 1,
+  "name": "North Sector"
+ },
+ {
+  "id": 2,
+  "name": "South Sector"
+ },
+ {
+  "id": 3,
+  "name": "East Sector"
+ },
+ {
+  "id": 4,
+  "name": "West Sector"
+ },
+ {
+  "id": 5,
+  "name": "Central Sector"
+ }
+]

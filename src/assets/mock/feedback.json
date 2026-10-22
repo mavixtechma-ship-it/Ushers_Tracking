@@ -1,0 +1,452 @@
+[
+ {
+  "id": 310,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Caleb Kovac",
+  "branchName": "Pine Hill Center",
+  "feedbackType": "Neutral",
+  "comment": "Routine visit, nothing to report.",
+  "createdAt": "2026-10-22T12:00:00.000Z"
+ },
+ {
+  "id": 307,
+  "supervisorName": "Noah Sato",
+  "usherName": "Isla Bennett",
+  "branchName": "Cedar Square",
+  "feedbackType": "Neutral",
+  "comment": "Average footfall today, steady performance.",
+  "createdAt": "2026-10-22T11:13:00.000Z"
+ },
+ {
+  "id": 301,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Hugo Novak",
+  "branchName": "Cedar Square",
+  "feedbackType": "Positive",
+  "comment": "Display was well organised and fully stocked.",
+  "createdAt": "2026-10-22T10:08:00.000Z"
+ },
+ {
+  "id": 328,
+  "supervisorName": "Nadia Ortega",
+  "usherName": "Mila Hayes",
+  "branchName": "Lakeside Galleria",
+  "feedbackType": "Positive",
+  "comment": "Arrived early and helped with shelf setup.",
+  "createdAt": "2026-10-21T12:52:00.000Z"
+ },
+ {
+  "id": 348,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Sofia Patel",
+  "branchName": "Sunset Boulevard Store",
+  "feedbackType": "Negative",
+  "comment": "Promo materials missing from the stand.",
+  "createdAt": "2026-10-19T13:19:00.000Z"
+ },
+ {
+  "id": 308,
+  "supervisorName": "Mila Shaw",
+  "usherName": "Sofia Patel",
+  "branchName": "Sunset Boulevard Store",
+  "feedbackType": "Negative",
+  "comment": "Late check-in without notice.",
+  "createdAt": "2026-10-19T12:32:00.000Z"
+ },
+ {
+  "id": 332,
+  "supervisorName": "Noah Sato",
+  "usherName": "Olivia Carter",
+  "branchName": "Pine Hill Center",
+  "feedbackType": "Neutral",
+  "comment": "Average footfall today, steady performance.",
+  "createdAt": "2026-10-19T07:39:00.000Z"
+ },
+ {
+  "id": 320,
+  "supervisorName": "Mila Shaw",
+  "usherName": "Ryan Moreau",
+  "branchName": "Northfield Outlet",
+  "feedbackType": "Positive",
+  "comment": "Display was well organised and fully stocked.",
+  "createdAt": "2026-10-18T10:10:00.000Z"
+ },
+ {
+  "id": 309,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Owen Reed",
+  "branchName": "Harbor Point Plaza",
+  "feedbackType": "Neutral",
+  "comment": "Average footfall today, steady performance.",
+  "createdAt": "2026-10-17T12:00:00.000Z"
+ },
+ {
+  "id": 326,
+  "supervisorName": "Maya Costa",
+  "usherName": "Mila Brooks",
+  "branchName": "Northfield Outlet",
+  "feedbackType": "Positive",
+  "comment": "Excellent sales pitch, customers engaged.",
+  "createdAt": "2026-10-17T11:17:00.000Z"
+ },
+ {
+  "id": 316,
+  "supervisorName": "Nadia Ortega",
+  "usherName": "Mason Reed",
+  "branchName": "Riverton Central Mall",
+  "feedbackType": "Neutral",
+  "comment": "Uniform OK, could improve product placement.",
+  "createdAt": "2026-10-17T10:56:00.000Z"
+ },
+ {
+  "id": 306,
+  "supervisorName": "Maya Costa",
+  "usherName": "Hugo Reed",
+  "branchName": "Cedar Square",
+  "feedbackType": "Positive",
+  "comment": "Arrived early and helped with shelf setup.",
+  "createdAt": "2026-10-17T08:45:00.000Z"
+ },
+ {
+  "id": 302,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Hugo Novak",
+  "branchName": "Oakridge Hypermarket",
+  "feedbackType": "Neutral",
+  "comment": "Routine visit, nothing to report.",
+  "createdAt": "2026-10-16T11:01:00.000Z"
+ },
+ {
+  "id": 319,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Hugo Novak",
+  "branchName": "Oakridge Hypermarket",
+  "feedbackType": "Neutral",
+  "comment": "Uniform OK, could improve product placement.",
+  "createdAt": "2026-10-16T10:18:00.000Z"
+ },
+ {
+  "id": 333,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Noah Lowe",
+  "branchName": "Oakridge Hypermarket",
+  "feedbackType": "Positive",
+  "comment": "Excellent sales pitch, customers engaged.",
+  "createdAt": "2026-10-16T10:00:00.000Z"
+ },
+ {
+  "id": 335,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Noah Lowe",
+  "branchName": "Oakridge Hypermarket",
+  "feedbackType": "Positive",
+  "comment": "Great product knowledge and friendly with customers.",
+  "createdAt": "2026-10-16T09:43:00.000Z"
+ },
+ {
+  "id": 343,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Noah Lowe",
+  "branchName": "Oakridge Hypermarket",
+  "feedbackType": "Positive",
+  "comment": "Great product knowledge and friendly with customers.",
+  "createdAt": "2026-10-16T07:58:00.000Z"
+ },
+ {
+  "id": 311,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Ella Walsh",
+  "branchName": "Sunset Boulevard Store",
+  "feedbackType": "Neutral",
+  "comment": "Uniform OK, could improve product placement.",
+  "createdAt": "2026-10-15T09:05:00.000Z"
+ },
+ {
+  "id": 318,
+  "supervisorName": "Noah Sato",
+  "usherName": "Olivia Carter",
+  "branchName": "Riverton Central Mall",
+  "feedbackType": "Positive",
+  "comment": "Arrived early and helped with shelf setup.",
+  "createdAt": "2026-10-11T12:10:00.000Z"
+ },
+ {
+  "id": 324,
+  "supervisorName": "Mila Shaw",
+  "usherName": "Ella Walsh",
+  "branchName": "Pine Hill Center",
+  "feedbackType": "Neutral",
+  "comment": "Average footfall today, steady performance.",
+  "createdAt": "2026-10-11T11:58:00.000Z"
+ },
+ {
+  "id": 317,
+  "supervisorName": "Noah Sato",
+  "usherName": "Ryan Moreau",
+  "branchName": "Maple Grove Market",
+  "feedbackType": "Positive",
+  "comment": "Excellent sales pitch, customers engaged.",
+  "createdAt": "2026-10-11T08:38:00.000Z"
+ },
+ {
+  "id": 340,
+  "supervisorName": "Mila Shaw",
+  "usherName": "Ryan Moreau",
+  "branchName": "Maple Grove Market",
+  "feedbackType": "Positive",
+  "comment": "Display was well organised and fully stocked.",
+  "createdAt": "2026-10-11T08:25:00.000Z"
+ },
+ {
+  "id": 337,
+  "supervisorName": "Nora Rahman",
+  "usherName": "Samir Kim",
+  "branchName": "Northfield Outlet",
+  "feedbackType": "Positive",
+  "comment": "Great product knowledge and friendly with customers.",
+  "createdAt": "2026-10-10T10:39:00.000Z"
+ },
+ {
+  "id": 312,
+  "supervisorName": "Nora Rahman",
+  "usherName": "Omar Quinn",
+  "branchName": "Westgate Retail Park",
+  "feedbackType": "Positive",
+  "comment": "Display was well organised and fully stocked.",
+  "createdAt": "2026-10-09T11:08:00.000Z"
+ },
+ {
+  "id": 322,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Omar Quinn",
+  "branchName": "Westgate Retail Park",
+  "feedbackType": "Positive",
+  "comment": "Excellent sales pitch, customers engaged.",
+  "createdAt": "2026-10-09T10:57:00.000Z"
+ },
+ {
+  "id": 327,
+  "supervisorName": "Noah Sato",
+  "usherName": "Omar Quinn",
+  "branchName": "Westgate Retail Park",
+  "feedbackType": "Negative",
+  "comment": "Late check-in without notice.",
+  "createdAt": "2026-10-09T08:43:00.000Z"
+ },
+ {
+  "id": 315,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Ella Lowe",
+  "branchName": "Northfield Outlet",
+  "feedbackType": "Negative",
+  "comment": "Promo materials missing from the stand.",
+  "createdAt": "2026-10-08T12:10:00.000Z"
+ },
+ {
+  "id": 334,
+  "supervisorName": "Nora Rahman",
+  "usherName": "Ella Lowe",
+  "branchName": "Northfield Outlet",
+  "feedbackType": "Neutral",
+  "comment": "Average footfall today, steady performance.",
+  "createdAt": "2026-10-08T11:35:00.000Z"
+ },
+ {
+  "id": 336,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Ryan Quinn",
+  "branchName": "Cedar Square",
+  "feedbackType": "Neutral",
+  "comment": "Average footfall today, steady performance.",
+  "createdAt": "2026-10-08T10:03:00.000Z"
+ },
+ {
+  "id": 325,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Sofia Patel",
+  "branchName": "Cedar Square",
+  "feedbackType": "Negative",
+  "comment": "Promo materials missing from the stand.",
+  "createdAt": "2026-10-07T09:35:00.000Z"
+ },
+ {
+  "id": 345,
+  "supervisorName": "Nora Rahman",
+  "usherName": "Noah Lowe",
+  "branchName": "Westgate Retail Park",
+  "feedbackType": "Positive",
+  "comment": "Great product knowledge and friendly with customers.",
+  "createdAt": "2026-10-06T06:57:00.000Z"
+ },
+ {
+  "id": 304,
+  "supervisorName": "Noah Sato",
+  "usherName": "Ella Doyle",
+  "branchName": "Sunset Boulevard Store",
+  "feedbackType": "Neutral",
+  "comment": "Uniform OK, could improve product placement.",
+  "createdAt": "2026-10-05T11:31:00.000Z"
+ },
+ {
+  "id": 303,
+  "supervisorName": "Nadia Ortega",
+  "usherName": "Sara Walsh",
+  "branchName": "Riverton Central Mall",
+  "feedbackType": "Neutral",
+  "comment": "Uniform OK, could improve product placement.",
+  "createdAt": "2026-10-05T09:49:00.000Z"
+ },
+ {
+  "id": 347,
+  "supervisorName": "Mila Shaw",
+  "usherName": "Tariq Farouk",
+  "branchName": "Lakeside Galleria",
+  "feedbackType": "Positive",
+  "comment": "Excellent sales pitch, customers engaged.",
+  "createdAt": "2026-10-05T08:47:00.000Z"
+ },
+ {
+  "id": 338,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Mia Novak",
+  "branchName": "Cedar Square",
+  "feedbackType": "Positive",
+  "comment": "Great product knowledge and friendly with customers.",
+  "createdAt": "2026-10-04T12:50:00.000Z"
+ },
+ {
+  "id": 349,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Isla Bennett",
+  "branchName": "Sunset Boulevard Store",
+  "feedbackType": "Negative",
+  "comment": "Was on phone during peak hours.",
+  "createdAt": "2026-10-04T09:35:00.000Z"
+ },
+ {
+  "id": 323,
+  "supervisorName": "Nadia Ortega",
+  "usherName": "Leila Lowe",
+  "branchName": "Cedar Square",
+  "feedbackType": "Positive",
+  "comment": "Arrived early and helped with shelf setup.",
+  "createdAt": "2026-10-03T10:29:00.000Z"
+ },
+ {
+  "id": 321,
+  "supervisorName": "Nora Rahman",
+  "usherName": "Mason Reed",
+  "branchName": "Northfield Outlet",
+  "feedbackType": "Negative",
+  "comment": "Promo materials missing from the stand.",
+  "createdAt": "2026-09-30T10:06:00.000Z"
+ },
+ {
+  "id": 342,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Tariq Farouk",
+  "branchName": "Sunset Boulevard Store",
+  "feedbackType": "Positive",
+  "comment": "Excellent sales pitch, customers engaged.",
+  "createdAt": "2026-09-30T07:36:00.000Z"
+ },
+ {
+  "id": 331,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Tariq Farouk",
+  "branchName": "Harbor Point Plaza",
+  "feedbackType": "Positive",
+  "comment": "Arrived early and helped with shelf setup.",
+  "createdAt": "2026-09-29T12:01:00.000Z"
+ },
+ {
+  "id": 344,
+  "supervisorName": "Noah Sato",
+  "usherName": "Sofia Patel",
+  "branchName": "Cedar Square",
+  "feedbackType": "Positive",
+  "comment": "Great product knowledge and friendly with customers.",
+  "createdAt": "2026-09-27T07:47:00.000Z"
+ },
+ {
+  "id": 339,
+  "supervisorName": "Isla Larsen",
+  "usherName": "Dina Haddad",
+  "branchName": "Pine Hill Center",
+  "feedbackType": "Positive",
+  "comment": "Arrived early and helped with shelf setup.",
+  "createdAt": "2026-09-26T12:49:00.000Z"
+ },
+ {
+  "id": 346,
+  "supervisorName": "Nora Rahman",
+  "usherName": "Sara Walsh",
+  "branchName": "Harbor Point Plaza",
+  "feedbackType": "Negative",
+  "comment": "Promo materials missing from the stand.",
+  "createdAt": "2026-09-26T10:54:00.000Z"
+ },
+ {
+  "id": 341,
+  "supervisorName": "Maya Costa",
+  "usherName": "Dina Haddad",
+  "branchName": "Pine Hill Center",
+  "feedbackType": "Neutral",
+  "comment": "Average footfall today, steady performance.",
+  "createdAt": "2026-09-26T10:26:00.000Z"
+ },
+ {
+  "id": 329,
+  "supervisorName": "Ryan Brooks",
+  "usherName": "Yusuf Patel",
+  "branchName": "Lakeside Galleria",
+  "feedbackType": "Positive",
+  "comment": "Excellent sales pitch, customers engaged.",
+  "createdAt": "2026-09-26T09:37:00.000Z"
+ },
+ {
+  "id": 313,
+  "supervisorName": "Noah Sato",
+  "usherName": "Sara Walsh",
+  "branchName": "Harbor Point Plaza",
+  "feedbackType": "Negative",
+  "comment": "Promo materials missing from the stand.",
+  "createdAt": "2026-09-26T08:31:00.000Z"
+ },
+ {
+  "id": 300,
+  "supervisorName": "Noah Sato",
+  "usherName": "Sofia Patel",
+  "branchName": "Westgate Retail Park",
+  "feedbackType": "Neutral",
+  "comment": "Routine visit, nothing to report.",
+  "createdAt": "2026-09-25T13:33:00.000Z"
+ },
+ {
+  "id": 305,
+  "supervisorName": "Mila Shaw",
+  "usherName": "Nadia Kim",
+  "branchName": "Cedar Square",
+  "feedbackType": "Neutral",
+  "comment": "Uniform OK, could improve product placement.",
+  "createdAt": "2026-09-25T11:15:00.000Z"
+ },
+ {
+  "id": 314,
+  "supervisorName": "Nora Rahman",
+  "usherName": "Nadia Kim",
+  "branchName": "Cedar Square",
+  "feedbackType": "Positive",
+  "comment": "Display was well organised and fully stocked.",
+  "createdAt": "2026-09-25T11:02:00.000Z"
+ },
+ {
+  "id": 330,
+  "supervisorName": "Mila Shaw",
+  "usherName": "Ryan Moreau",
+  "branchName": "Eastwood Commons",
+  "feedbackType": "Positive",
+  "comment": "Display was well organised and fully stocked.",
+  "createdAt": "2026-09-24T10:17:00.000Z"
+ }
+]

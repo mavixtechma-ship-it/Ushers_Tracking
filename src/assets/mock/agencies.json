@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "enName": "Acme Staffing",
+  "arName": "أكمي للتوظيف"
+ },
+ {
+  "id": 2,
+  "enName": "Globex Field Services",
+  "arName": "جلوبكس للخدمات الميدانية"
+ },
+ {
+  "id": 3,
+  "enName": "Initech Promotions",
+  "arName": "إنيتك للترويج"
+ },
+ {
+  "id": 4,
+  "enName": "Umbra Retail Partners",
+  "arName": "أومبرا لشركاء التجزئة"
+ },
+ {
+  "id": 5,
+  "enName": "Stellar Merchandising",
+  "arName": "ستيلار للتسويق"
+ },
+ {
+  "id": 6,
+  "enName": "Brightpath Talent",
+  "arName": "برايت باث للمواهب"
+ }
+]

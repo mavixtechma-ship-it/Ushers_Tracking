@@ -1,0 +1,15 @@
+# dependencies & build output
+node_modules/
+dist/
+.angular/
+out-tsc/
+
+# secrets — demo credentials live only here
+CREDENTIALS.md
+
+# misc
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/

@@ -1,0 +1,1433 @@
+[
+ {
+  "id": 1,
+  "sessionId": 1001,
+  "break_type": "Prayer",
+  "start_time": "2026-10-22T10:51:00.000Z",
+  "end_time": "2026-10-22T11:11:00.000Z",
+  "duration": 20,
+  "reason": null
+ },
+ {
+  "id": 2,
+  "sessionId": 1004,
+  "break_type": "Short",
+  "start_time": "2026-10-22T09:01:00.000Z",
+  "end_time": "2026-10-22T09:35:00.000Z",
+  "duration": 34,
+  "reason": null
+ },
+ {
+  "id": 3,
+  "sessionId": 1004,
+  "break_type": "Lunch",
+  "start_time": "2026-10-22T11:06:00.000Z",
+  "end_time": null,
+  "duration": null,
+  "reason": null
+ },
+ {
+  "id": 4,
+  "sessionId": 1005,
+  "break_type": "Prayer",
+  "start_time": "2026-10-22T09:38:00.000Z",
+  "end_time": "2026-10-22T10:21:00.000Z",
+  "duration": 43,
+  "reason": null
+ },
+ {
+  "id": 5,
+  "sessionId": 1005,
+  "break_type": "Short",
+  "start_time": "2026-10-22T11:11:00.000Z",
+  "end_time": "2026-10-22T11:56:00.000Z",
+  "duration": 45,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 6,
+  "sessionId": 1006,
+  "break_type": "Prayer",
+  "start_time": "2026-10-22T10:40:00.000Z",
+  "end_time": null,
+  "duration": null,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 7,
+  "sessionId": 1007,
+  "break_type": "Lunch",
+  "start_time": "2026-10-22T11:18:00.000Z",
+  "end_time": "2026-10-22T12:02:00.000Z",
+  "duration": 44,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 8,
+  "sessionId": 1008,
+  "break_type": "Prayer",
+  "start_time": "2026-10-22T09:09:00.000Z",
+  "end_time": "2026-10-22T09:23:00.000Z",
+  "duration": 14,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 9,
+  "sessionId": 1009,
+  "break_type": "Prayer",
+  "start_time": "2026-10-22T07:40:00.000Z",
+  "end_time": "2026-10-22T08:00:00.000Z",
+  "duration": 20,
+  "reason": null
+ },
+ {
+  "id": 10,
+  "sessionId": 1010,
+  "break_type": "Short",
+  "start_time": "2026-10-22T09:33:00.000Z",
+  "end_time": "2026-10-22T10:02:00.000Z",
+  "duration": 29,
+  "reason": null
+ },
+ {
+  "id": 11,
+  "sessionId": 1010,
+  "break_type": "Prayer",
+  "start_time": "2026-10-22T12:08:00.000Z",
+  "end_time": "2026-10-22T12:21:00.000Z",
+  "duration": 13,
+  "reason": null
+ },
+ {
+  "id": 12,
+  "sessionId": 1012,
+  "break_type": "Lunch",
+  "start_time": "2026-10-15T08:51:00.000Z",
+  "end_time": "2026-10-15T09:17:00.000Z",
+  "duration": 26,
+  "reason": null
+ },
+ {
+  "id": 13,
+  "sessionId": 1013,
+  "break_type": "Lunch",
+  "start_time": "2026-10-08T10:23:00.000Z",
+  "end_time": "2026-10-08T10:59:00.000Z",
+  "duration": 36,
+  "reason": null
+ },
+ {
+  "id": 14,
+  "sessionId": 1014,
+  "break_type": "Short",
+  "start_time": "2026-10-05T08:37:00.000Z",
+  "end_time": "2026-10-05T09:21:00.000Z",
+  "duration": 44,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 15,
+  "sessionId": 1015,
+  "break_type": "Short",
+  "start_time": "2026-09-26T09:32:00.000Z",
+  "end_time": "2026-09-26T09:48:00.000Z",
+  "duration": 16,
+  "reason": null
+ },
+ {
+  "id": 16,
+  "sessionId": 1015,
+  "break_type": "Short",
+  "start_time": "2026-09-26T11:05:00.000Z",
+  "end_time": "2026-09-26T11:43:00.000Z",
+  "duration": 38,
+  "reason": null
+ },
+ {
+  "id": 17,
+  "sessionId": 1016,
+  "break_type": "Short",
+  "start_time": "2026-10-17T08:25:00.000Z",
+  "end_time": "2026-10-17T08:59:00.000Z",
+  "duration": 34,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 18,
+  "sessionId": 1016,
+  "break_type": "Prayer",
+  "start_time": "2026-10-17T10:34:00.000Z",
+  "end_time": "2026-10-17T11:11:00.000Z",
+  "duration": 37,
+  "reason": null
+ },
+ {
+  "id": 19,
+  "sessionId": 1017,
+  "break_type": "Short",
+  "start_time": "2026-10-07T08:04:00.000Z",
+  "end_time": "2026-10-07T08:31:00.000Z",
+  "duration": 27,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 20,
+  "sessionId": 1017,
+  "break_type": "Short",
+  "start_time": "2026-10-07T10:19:00.000Z",
+  "end_time": "2026-10-07T10:34:00.000Z",
+  "duration": 15,
+  "reason": null
+ },
+ {
+  "id": 21,
+  "sessionId": 1018,
+  "break_type": "Prayer",
+  "start_time": "2026-09-25T08:52:00.000Z",
+  "end_time": "2026-09-25T09:35:00.000Z",
+  "duration": 43,
+  "reason": null
+ },
+ {
+  "id": 22,
+  "sessionId": 1018,
+  "break_type": "Lunch",
+  "start_time": "2026-09-25T10:55:00.000Z",
+  "end_time": "2026-09-25T11:27:00.000Z",
+  "duration": 32,
+  "reason": null
+ },
+ {
+  "id": 23,
+  "sessionId": 1019,
+  "break_type": "Lunch",
+  "start_time": "2026-10-11T10:26:00.000Z",
+  "end_time": "2026-10-11T10:49:00.000Z",
+  "duration": 23,
+  "reason": null
+ },
+ {
+  "id": 24,
+  "sessionId": 1019,
+  "break_type": "Lunch",
+  "start_time": "2026-10-11T12:26:00.000Z",
+  "end_time": "2026-10-11T13:06:00.000Z",
+  "duration": 40,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 25,
+  "sessionId": 1020,
+  "break_type": "Short",
+  "start_time": "2026-10-17T09:30:00.000Z",
+  "end_time": "2026-10-17T10:08:00.000Z",
+  "duration": 38,
+  "reason": null
+ },
+ {
+  "id": 26,
+  "sessionId": 1020,
+  "break_type": "Lunch",
+  "start_time": "2026-10-17T11:08:00.000Z",
+  "end_time": "2026-10-17T11:49:00.000Z",
+  "duration": 41,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 27,
+  "sessionId": 1021,
+  "break_type": "Prayer",
+  "start_time": "2026-10-15T09:56:00.000Z",
+  "end_time": "2026-10-15T10:10:00.000Z",
+  "duration": 14,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 28,
+  "sessionId": 1022,
+  "break_type": "Prayer",
+  "start_time": "2026-10-16T11:08:00.000Z",
+  "end_time": "2026-10-16T11:33:00.000Z",
+  "duration": 25,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 29,
+  "sessionId": 1022,
+  "break_type": "Lunch",
+  "start_time": "2026-10-16T13:12:00.000Z",
+  "end_time": "2026-10-16T13:32:00.000Z",
+  "duration": 20,
+  "reason": null
+ },
+ {
+  "id": 30,
+  "sessionId": 1023,
+  "break_type": "Prayer",
+  "start_time": "2026-10-16T08:27:00.000Z",
+  "end_time": "2026-10-16T08:51:00.000Z",
+  "duration": 24,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 31,
+  "sessionId": 1023,
+  "break_type": "Lunch",
+  "start_time": "2026-10-16T10:31:00.000Z",
+  "end_time": "2026-10-16T11:06:00.000Z",
+  "duration": 35,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 32,
+  "sessionId": 1024,
+  "break_type": "Short",
+  "start_time": "2026-10-01T10:44:00.000Z",
+  "end_time": "2026-10-01T11:02:00.000Z",
+  "duration": 18,
+  "reason": null
+ },
+ {
+  "id": 33,
+  "sessionId": 1025,
+  "break_type": "Lunch",
+  "start_time": "2026-10-05T09:14:00.000Z",
+  "end_time": "2026-10-05T09:53:00.000Z",
+  "duration": 39,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 34,
+  "sessionId": 1026,
+  "break_type": "Prayer",
+  "start_time": "2026-09-30T10:52:00.000Z",
+  "end_time": "2026-09-30T11:34:00.000Z",
+  "duration": 42,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 35,
+  "sessionId": 1027,
+  "break_type": "Lunch",
+  "start_time": "2026-09-25T11:02:00.000Z",
+  "end_time": "2026-09-25T11:36:00.000Z",
+  "duration": 34,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 36,
+  "sessionId": 1027,
+  "break_type": "Prayer",
+  "start_time": "2026-09-25T13:34:00.000Z",
+  "end_time": "2026-09-25T14:02:00.000Z",
+  "duration": 28,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 37,
+  "sessionId": 1028,
+  "break_type": "Short",
+  "start_time": "2026-09-26T11:13:00.000Z",
+  "end_time": "2026-09-26T11:34:00.000Z",
+  "duration": 21,
+  "reason": null
+ },
+ {
+  "id": 38,
+  "sessionId": 1029,
+  "break_type": "Lunch",
+  "start_time": "2026-10-15T10:06:00.000Z",
+  "end_time": "2026-10-15T10:41:00.000Z",
+  "duration": 35,
+  "reason": null
+ },
+ {
+  "id": 39,
+  "sessionId": 1029,
+  "break_type": "Prayer",
+  "start_time": "2026-10-15T12:33:00.000Z",
+  "end_time": "2026-10-15T13:13:00.000Z",
+  "duration": 40,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 40,
+  "sessionId": 1030,
+  "break_type": "Short",
+  "start_time": "2026-09-29T10:32:00.000Z",
+  "end_time": "2026-09-29T10:54:00.000Z",
+  "duration": 22,
+  "reason": null
+ },
+ {
+  "id": 41,
+  "sessionId": 1031,
+  "break_type": "Short",
+  "start_time": "2026-10-10T09:25:00.000Z",
+  "end_time": "2026-10-10T09:41:00.000Z",
+  "duration": 16,
+  "reason": null
+ },
+ {
+  "id": 42,
+  "sessionId": 1034,
+  "break_type": "Prayer",
+  "start_time": "2026-10-18T08:13:00.000Z",
+  "end_time": "2026-10-18T08:27:00.000Z",
+  "duration": 14,
+  "reason": null
+ },
+ {
+  "id": 43,
+  "sessionId": 1034,
+  "break_type": "Prayer",
+  "start_time": "2026-10-18T10:06:00.000Z",
+  "end_time": "2026-10-18T10:20:00.000Z",
+  "duration": 14,
+  "reason": null
+ },
+ {
+  "id": 44,
+  "sessionId": 1035,
+  "break_type": "Short",
+  "start_time": "2026-09-26T07:39:00.000Z",
+  "end_time": "2026-09-26T08:18:00.000Z",
+  "duration": 39,
+  "reason": null
+ },
+ {
+  "id": 45,
+  "sessionId": 1035,
+  "break_type": "Short",
+  "start_time": "2026-09-26T09:26:00.000Z",
+  "end_time": "2026-09-26T09:49:00.000Z",
+  "duration": 23,
+  "reason": null
+ },
+ {
+  "id": 46,
+  "sessionId": 1036,
+  "break_type": "Prayer",
+  "start_time": "2026-10-12T11:14:00.000Z",
+  "end_time": "2026-10-12T11:38:00.000Z",
+  "duration": 24,
+  "reason": null
+ },
+ {
+  "id": 47,
+  "sessionId": 1039,
+  "break_type": "Lunch",
+  "start_time": "2026-10-20T07:06:00.000Z",
+  "end_time": "2026-10-20T07:35:00.000Z",
+  "duration": 29,
+  "reason": null
+ },
+ {
+  "id": 48,
+  "sessionId": 1040,
+  "break_type": "Prayer",
+  "start_time": "2026-10-16T09:00:00.000Z",
+  "end_time": "2026-10-16T09:40:00.000Z",
+  "duration": 40,
+  "reason": null
+ },
+ {
+  "id": 49,
+  "sessionId": 1040,
+  "break_type": "Short",
+  "start_time": "2026-10-16T11:11:00.000Z",
+  "end_time": "2026-10-16T11:31:00.000Z",
+  "duration": 20,
+  "reason": null
+ },
+ {
+  "id": 50,
+  "sessionId": 1041,
+  "break_type": "Lunch",
+  "start_time": "2026-09-23T10:40:00.000Z",
+  "end_time": "2026-09-23T11:17:00.000Z",
+  "duration": 37,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 51,
+  "sessionId": 1041,
+  "break_type": "Lunch",
+  "start_time": "2026-09-23T13:08:00.000Z",
+  "end_time": "2026-09-23T13:23:00.000Z",
+  "duration": 15,
+  "reason": null
+ },
+ {
+  "id": 52,
+  "sessionId": 1042,
+  "break_type": "Prayer",
+  "start_time": "2026-10-10T08:50:00.000Z",
+  "end_time": "2026-10-10T09:12:00.000Z",
+  "duration": 22,
+  "reason": null
+ },
+ {
+  "id": 53,
+  "sessionId": 1042,
+  "break_type": "Lunch",
+  "start_time": "2026-10-10T10:52:00.000Z",
+  "end_time": "2026-10-10T11:02:00.000Z",
+  "duration": 10,
+  "reason": null
+ },
+ {
+  "id": 54,
+  "sessionId": 1043,
+  "break_type": "Short",
+  "start_time": "2026-10-19T09:36:00.000Z",
+  "end_time": "2026-10-19T10:03:00.000Z",
+  "duration": 27,
+  "reason": null
+ },
+ {
+  "id": 55,
+  "sessionId": 1043,
+  "break_type": "Short",
+  "start_time": "2026-10-19T11:38:00.000Z",
+  "end_time": "2026-10-19T11:52:00.000Z",
+  "duration": 14,
+  "reason": null
+ },
+ {
+  "id": 56,
+  "sessionId": 1044,
+  "break_type": "Lunch",
+  "start_time": "2026-10-02T10:02:00.000Z",
+  "end_time": "2026-10-02T10:18:00.000Z",
+  "duration": 16,
+  "reason": null
+ },
+ {
+  "id": 57,
+  "sessionId": 1046,
+  "break_type": "Lunch",
+  "start_time": "2026-10-12T10:48:00.000Z",
+  "end_time": "2026-10-12T11:18:00.000Z",
+  "duration": 30,
+  "reason": null
+ },
+ {
+  "id": 58,
+  "sessionId": 1046,
+  "break_type": "Prayer",
+  "start_time": "2026-10-12T12:09:00.000Z",
+  "end_time": "2026-10-12T12:35:00.000Z",
+  "duration": 26,
+  "reason": null
+ },
+ {
+  "id": 59,
+  "sessionId": 1047,
+  "break_type": "Lunch",
+  "start_time": "2026-10-19T10:04:00.000Z",
+  "end_time": "2026-10-19T10:34:00.000Z",
+  "duration": 30,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 60,
+  "sessionId": 1047,
+  "break_type": "Lunch",
+  "start_time": "2026-10-19T11:49:00.000Z",
+  "end_time": "2026-10-19T12:00:00.000Z",
+  "duration": 11,
+  "reason": null
+ },
+ {
+  "id": 61,
+  "sessionId": 1048,
+  "break_type": "Prayer",
+  "start_time": "2026-10-15T08:26:00.000Z",
+  "end_time": "2026-10-15T09:07:00.000Z",
+  "duration": 41,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 62,
+  "sessionId": 1049,
+  "break_type": "Lunch",
+  "start_time": "2026-09-24T08:48:00.000Z",
+  "end_time": "2026-09-24T09:20:00.000Z",
+  "duration": 32,
+  "reason": null
+ },
+ {
+  "id": 63,
+  "sessionId": 1049,
+  "break_type": "Prayer",
+  "start_time": "2026-09-24T10:25:00.000Z",
+  "end_time": "2026-09-24T11:05:00.000Z",
+  "duration": 40,
+  "reason": null
+ },
+ {
+  "id": 64,
+  "sessionId": 1051,
+  "break_type": "Prayer",
+  "start_time": "2026-09-30T11:04:00.000Z",
+  "end_time": "2026-09-30T11:46:00.000Z",
+  "duration": 42,
+  "reason": null
+ },
+ {
+  "id": 65,
+  "sessionId": 1051,
+  "break_type": "Lunch",
+  "start_time": "2026-09-30T12:44:00.000Z",
+  "end_time": "2026-09-30T12:59:00.000Z",
+  "duration": 15,
+  "reason": null
+ },
+ {
+  "id": 66,
+  "sessionId": 1052,
+  "break_type": "Lunch",
+  "start_time": "2026-10-19T10:48:00.000Z",
+  "end_time": "2026-10-19T11:29:00.000Z",
+  "duration": 41,
+  "reason": null
+ },
+ {
+  "id": 67,
+  "sessionId": 1053,
+  "break_type": "Short",
+  "start_time": "2026-10-10T09:33:00.000Z",
+  "end_time": "2026-10-10T09:51:00.000Z",
+  "duration": 18,
+  "reason": null
+ },
+ {
+  "id": 68,
+  "sessionId": 1055,
+  "break_type": "Lunch",
+  "start_time": "2026-10-06T07:53:00.000Z",
+  "end_time": "2026-10-06T08:06:00.000Z",
+  "duration": 13,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 69,
+  "sessionId": 1055,
+  "break_type": "Prayer",
+  "start_time": "2026-10-06T09:46:00.000Z",
+  "end_time": "2026-10-06T10:01:00.000Z",
+  "duration": 15,
+  "reason": null
+ },
+ {
+  "id": 70,
+  "sessionId": 1057,
+  "break_type": "Prayer",
+  "start_time": "2026-09-29T10:14:00.000Z",
+  "end_time": "2026-09-29T10:38:00.000Z",
+  "duration": 24,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 71,
+  "sessionId": 1057,
+  "break_type": "Prayer",
+  "start_time": "2026-09-29T11:29:00.000Z",
+  "end_time": "2026-09-29T11:45:00.000Z",
+  "duration": 16,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 72,
+  "sessionId": 1058,
+  "break_type": "Short",
+  "start_time": "2026-10-17T09:58:00.000Z",
+  "end_time": "2026-10-17T10:19:00.000Z",
+  "duration": 21,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 73,
+  "sessionId": 1058,
+  "break_type": "Lunch",
+  "start_time": "2026-10-17T11:47:00.000Z",
+  "end_time": "2026-10-17T12:07:00.000Z",
+  "duration": 20,
+  "reason": null
+ },
+ {
+  "id": 74,
+  "sessionId": 1060,
+  "break_type": "Lunch",
+  "start_time": "2026-10-11T09:00:00.000Z",
+  "end_time": "2026-10-11T09:42:00.000Z",
+  "duration": 42,
+  "reason": null
+ },
+ {
+  "id": 75,
+  "sessionId": 1060,
+  "break_type": "Lunch",
+  "start_time": "2026-10-11T11:24:00.000Z",
+  "end_time": "2026-10-11T11:43:00.000Z",
+  "duration": 19,
+  "reason": null
+ },
+ {
+  "id": 76,
+  "sessionId": 1061,
+  "break_type": "Prayer",
+  "start_time": "2026-10-11T07:37:00.000Z",
+  "end_time": "2026-10-11T07:57:00.000Z",
+  "duration": 20,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 77,
+  "sessionId": 1061,
+  "break_type": "Short",
+  "start_time": "2026-10-11T10:22:00.000Z",
+  "end_time": "2026-10-11T10:45:00.000Z",
+  "duration": 23,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 78,
+  "sessionId": 1062,
+  "break_type": "Prayer",
+  "start_time": "2026-10-06T09:14:00.000Z",
+  "end_time": "2026-10-06T09:32:00.000Z",
+  "duration": 18,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 79,
+  "sessionId": 1062,
+  "break_type": "Lunch",
+  "start_time": "2026-10-06T11:07:00.000Z",
+  "end_time": "2026-10-06T11:30:00.000Z",
+  "duration": 23,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 80,
+  "sessionId": 1063,
+  "break_type": "Lunch",
+  "start_time": "2026-10-05T07:22:00.000Z",
+  "end_time": "2026-10-05T07:47:00.000Z",
+  "duration": 25,
+  "reason": null
+ },
+ {
+  "id": 81,
+  "sessionId": 1063,
+  "break_type": "Lunch",
+  "start_time": "2026-10-05T09:41:00.000Z",
+  "end_time": "2026-10-05T09:58:00.000Z",
+  "duration": 17,
+  "reason": null
+ },
+ {
+  "id": 82,
+  "sessionId": 1064,
+  "break_type": "Short",
+  "start_time": "2026-10-09T09:53:00.000Z",
+  "end_time": "2026-10-09T10:26:00.000Z",
+  "duration": 33,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 83,
+  "sessionId": 1066,
+  "break_type": "Prayer",
+  "start_time": "2026-10-08T09:43:00.000Z",
+  "end_time": "2026-10-08T10:04:00.000Z",
+  "duration": 21,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 84,
+  "sessionId": 1066,
+  "break_type": "Short",
+  "start_time": "2026-10-08T11:57:00.000Z",
+  "end_time": "2026-10-08T12:27:00.000Z",
+  "duration": 30,
+  "reason": null
+ },
+ {
+  "id": 85,
+  "sessionId": 1069,
+  "break_type": "Lunch",
+  "start_time": "2026-09-24T08:17:00.000Z",
+  "end_time": "2026-09-24T08:47:00.000Z",
+  "duration": 30,
+  "reason": null
+ },
+ {
+  "id": 86,
+  "sessionId": 1069,
+  "break_type": "Lunch",
+  "start_time": "2026-09-24T10:34:00.000Z",
+  "end_time": "2026-09-24T10:53:00.000Z",
+  "duration": 19,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 87,
+  "sessionId": 1070,
+  "break_type": "Prayer",
+  "start_time": "2026-10-18T08:00:00.000Z",
+  "end_time": "2026-10-18T08:16:00.000Z",
+  "duration": 16,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 88,
+  "sessionId": 1071,
+  "break_type": "Lunch",
+  "start_time": "2026-10-17T10:25:00.000Z",
+  "end_time": "2026-10-17T11:06:00.000Z",
+  "duration": 41,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 89,
+  "sessionId": 1071,
+  "break_type": "Lunch",
+  "start_time": "2026-10-17T12:09:00.000Z",
+  "end_time": "2026-10-17T12:20:00.000Z",
+  "duration": 11,
+  "reason": null
+ },
+ {
+  "id": 90,
+  "sessionId": 1072,
+  "break_type": "Lunch",
+  "start_time": "2026-09-29T09:41:00.000Z",
+  "end_time": "2026-09-29T10:23:00.000Z",
+  "duration": 42,
+  "reason": null
+ },
+ {
+  "id": 91,
+  "sessionId": 1072,
+  "break_type": "Lunch",
+  "start_time": "2026-09-29T11:27:00.000Z",
+  "end_time": "2026-09-29T11:39:00.000Z",
+  "duration": 12,
+  "reason": null
+ },
+ {
+  "id": 92,
+  "sessionId": 1075,
+  "break_type": "Prayer",
+  "start_time": "2026-10-08T09:37:00.000Z",
+  "end_time": "2026-10-08T09:50:00.000Z",
+  "duration": 13,
+  "reason": null
+ },
+ {
+  "id": 93,
+  "sessionId": 1076,
+  "break_type": "Lunch",
+  "start_time": "2026-10-02T08:27:00.000Z",
+  "end_time": "2026-10-02T08:46:00.000Z",
+  "duration": 19,
+  "reason": null
+ },
+ {
+  "id": 94,
+  "sessionId": 1076,
+  "break_type": "Prayer",
+  "start_time": "2026-10-02T10:33:00.000Z",
+  "end_time": "2026-10-02T10:47:00.000Z",
+  "duration": 14,
+  "reason": null
+ },
+ {
+  "id": 95,
+  "sessionId": 1077,
+  "break_type": "Short",
+  "start_time": "2026-09-26T11:07:00.000Z",
+  "end_time": "2026-09-26T11:40:00.000Z",
+  "duration": 33,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 96,
+  "sessionId": 1077,
+  "break_type": "Lunch",
+  "start_time": "2026-09-26T12:40:00.000Z",
+  "end_time": "2026-09-26T13:09:00.000Z",
+  "duration": 29,
+  "reason": null
+ },
+ {
+  "id": 97,
+  "sessionId": 1078,
+  "break_type": "Short",
+  "start_time": "2026-10-08T11:02:00.000Z",
+  "end_time": "2026-10-08T11:24:00.000Z",
+  "duration": 22,
+  "reason": null
+ },
+ {
+  "id": 98,
+  "sessionId": 1079,
+  "break_type": "Short",
+  "start_time": "2026-10-14T10:46:00.000Z",
+  "end_time": "2026-10-14T11:27:00.000Z",
+  "duration": 41,
+  "reason": null
+ },
+ {
+  "id": 99,
+  "sessionId": 1080,
+  "break_type": "Lunch",
+  "start_time": "2026-09-25T10:57:00.000Z",
+  "end_time": "2026-09-25T11:41:00.000Z",
+  "duration": 44,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 100,
+  "sessionId": 1080,
+  "break_type": "Prayer",
+  "start_time": "2026-09-25T13:02:00.000Z",
+  "end_time": "2026-09-25T13:38:00.000Z",
+  "duration": 36,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 101,
+  "sessionId": 1082,
+  "break_type": "Prayer",
+  "start_time": "2026-09-25T09:45:00.000Z",
+  "end_time": "2026-09-25T10:09:00.000Z",
+  "duration": 24,
+  "reason": null
+ },
+ {
+  "id": 102,
+  "sessionId": 1082,
+  "break_type": "Lunch",
+  "start_time": "2026-09-25T11:33:00.000Z",
+  "end_time": "2026-09-25T12:09:00.000Z",
+  "duration": 36,
+  "reason": null
+ },
+ {
+  "id": 103,
+  "sessionId": 1083,
+  "break_type": "Prayer",
+  "start_time": "2026-10-18T10:10:00.000Z",
+  "end_time": "2026-10-18T10:44:00.000Z",
+  "duration": 34,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 104,
+  "sessionId": 1084,
+  "break_type": "Prayer",
+  "start_time": "2026-10-18T07:55:00.000Z",
+  "end_time": "2026-10-18T08:07:00.000Z",
+  "duration": 12,
+  "reason": null
+ },
+ {
+  "id": 105,
+  "sessionId": 1084,
+  "break_type": "Lunch",
+  "start_time": "2026-10-18T09:18:00.000Z",
+  "end_time": "2026-10-18T09:53:00.000Z",
+  "duration": 35,
+  "reason": null
+ },
+ {
+  "id": 106,
+  "sessionId": 1085,
+  "break_type": "Prayer",
+  "start_time": "2026-10-11T11:05:00.000Z",
+  "end_time": "2026-10-11T11:46:00.000Z",
+  "duration": 41,
+  "reason": null
+ },
+ {
+  "id": 107,
+  "sessionId": 1087,
+  "break_type": "Prayer",
+  "start_time": "2026-09-26T10:06:00.000Z",
+  "end_time": "2026-09-26T10:22:00.000Z",
+  "duration": 16,
+  "reason": null
+ },
+ {
+  "id": 108,
+  "sessionId": 1089,
+  "break_type": "Short",
+  "start_time": "2026-10-19T08:14:00.000Z",
+  "end_time": "2026-10-19T08:46:00.000Z",
+  "duration": 32,
+  "reason": null
+ },
+ {
+  "id": 109,
+  "sessionId": 1091,
+  "break_type": "Short",
+  "start_time": "2026-09-24T09:35:00.000Z",
+  "end_time": "2026-09-24T10:20:00.000Z",
+  "duration": 45,
+  "reason": null
+ },
+ {
+  "id": 110,
+  "sessionId": 1091,
+  "break_type": "Lunch",
+  "start_time": "2026-09-24T11:29:00.000Z",
+  "end_time": "2026-09-24T11:46:00.000Z",
+  "duration": 17,
+  "reason": null
+ },
+ {
+  "id": 111,
+  "sessionId": 1094,
+  "break_type": "Short",
+  "start_time": "2026-10-19T08:44:00.000Z",
+  "end_time": "2026-10-19T09:14:00.000Z",
+  "duration": 30,
+  "reason": null
+ },
+ {
+  "id": 112,
+  "sessionId": 1098,
+  "break_type": "Short",
+  "start_time": "2026-09-30T11:32:00.000Z",
+  "end_time": "2026-09-30T12:16:00.000Z",
+  "duration": 44,
+  "reason": null
+ },
+ {
+  "id": 113,
+  "sessionId": 1098,
+  "break_type": "Prayer",
+  "start_time": "2026-09-30T13:04:00.000Z",
+  "end_time": "2026-09-30T13:22:00.000Z",
+  "duration": 18,
+  "reason": null
+ },
+ {
+  "id": 114,
+  "sessionId": 1099,
+  "break_type": "Lunch",
+  "start_time": "2026-10-15T08:50:00.000Z",
+  "end_time": "2026-10-15T09:02:00.000Z",
+  "duration": 12,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 115,
+  "sessionId": 1101,
+  "break_type": "Prayer",
+  "start_time": "2026-10-04T10:36:00.000Z",
+  "end_time": "2026-10-04T10:56:00.000Z",
+  "duration": 20,
+  "reason": null
+ },
+ {
+  "id": 116,
+  "sessionId": 1102,
+  "break_type": "Short",
+  "start_time": "2026-10-17T09:14:00.000Z",
+  "end_time": "2026-10-17T09:57:00.000Z",
+  "duration": 43,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 117,
+  "sessionId": 1102,
+  "break_type": "Lunch",
+  "start_time": "2026-10-17T11:25:00.000Z",
+  "end_time": "2026-10-17T11:50:00.000Z",
+  "duration": 25,
+  "reason": null
+ },
+ {
+  "id": 118,
+  "sessionId": 1103,
+  "break_type": "Lunch",
+  "start_time": "2026-09-26T10:11:00.000Z",
+  "end_time": "2026-09-26T10:21:00.000Z",
+  "duration": 10,
+  "reason": null
+ },
+ {
+  "id": 119,
+  "sessionId": 1103,
+  "break_type": "Prayer",
+  "start_time": "2026-09-26T11:55:00.000Z",
+  "end_time": "2026-09-26T12:29:00.000Z",
+  "duration": 34,
+  "reason": null
+ },
+ {
+  "id": 120,
+  "sessionId": 1104,
+  "break_type": "Prayer",
+  "start_time": "2026-09-30T10:47:00.000Z",
+  "end_time": "2026-09-30T11:10:00.000Z",
+  "duration": 23,
+  "reason": null
+ },
+ {
+  "id": 121,
+  "sessionId": 1106,
+  "break_type": "Prayer",
+  "start_time": "2026-09-25T07:48:00.000Z",
+  "end_time": "2026-09-25T08:19:00.000Z",
+  "duration": 31,
+  "reason": null
+ },
+ {
+  "id": 122,
+  "sessionId": 1106,
+  "break_type": "Prayer",
+  "start_time": "2026-09-25T10:08:00.000Z",
+  "end_time": "2026-09-25T10:21:00.000Z",
+  "duration": 13,
+  "reason": null
+ },
+ {
+  "id": 123,
+  "sessionId": 1107,
+  "break_type": "Short",
+  "start_time": "2026-10-10T08:58:00.000Z",
+  "end_time": "2026-10-10T09:23:00.000Z",
+  "duration": 25,
+  "reason": null
+ },
+ {
+  "id": 124,
+  "sessionId": 1108,
+  "break_type": "Prayer",
+  "start_time": "2026-10-21T10:49:00.000Z",
+  "end_time": "2026-10-21T11:30:00.000Z",
+  "duration": 41,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 125,
+  "sessionId": 1108,
+  "break_type": "Lunch",
+  "start_time": "2026-10-21T12:26:00.000Z",
+  "end_time": "2026-10-21T13:09:00.000Z",
+  "duration": 43,
+  "reason": null
+ },
+ {
+  "id": 126,
+  "sessionId": 1110,
+  "break_type": "Lunch",
+  "start_time": "2026-10-19T09:39:00.000Z",
+  "end_time": "2026-10-19T10:02:00.000Z",
+  "duration": 23,
+  "reason": null
+ },
+ {
+  "id": 127,
+  "sessionId": 1112,
+  "break_type": "Short",
+  "start_time": "2026-09-25T10:25:00.000Z",
+  "end_time": "2026-09-25T10:48:00.000Z",
+  "duration": 23,
+  "reason": null
+ },
+ {
+  "id": 128,
+  "sessionId": 1114,
+  "break_type": "Prayer",
+  "start_time": "2026-10-04T10:23:00.000Z",
+  "end_time": "2026-10-04T10:44:00.000Z",
+  "duration": 21,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 129,
+  "sessionId": 1116,
+  "break_type": "Short",
+  "start_time": "2026-10-14T09:23:00.000Z",
+  "end_time": "2026-10-14T10:00:00.000Z",
+  "duration": 37,
+  "reason": null
+ },
+ {
+  "id": 130,
+  "sessionId": 1117,
+  "break_type": "Prayer",
+  "start_time": "2026-09-24T07:37:00.000Z",
+  "end_time": "2026-09-24T08:15:00.000Z",
+  "duration": 38,
+  "reason": null
+ },
+ {
+  "id": 131,
+  "sessionId": 1118,
+  "break_type": "Prayer",
+  "start_time": "2026-10-21T11:10:00.000Z",
+  "end_time": "2026-10-21T11:44:00.000Z",
+  "duration": 34,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 132,
+  "sessionId": 1118,
+  "break_type": "Prayer",
+  "start_time": "2026-10-21T13:35:00.000Z",
+  "end_time": "2026-10-21T14:00:00.000Z",
+  "duration": 25,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 133,
+  "sessionId": 1119,
+  "break_type": "Prayer",
+  "start_time": "2026-09-27T09:03:00.000Z",
+  "end_time": "2026-09-27T09:18:00.000Z",
+  "duration": 15,
+  "reason": null
+ },
+ {
+  "id": 134,
+  "sessionId": 1119,
+  "break_type": "Prayer",
+  "start_time": "2026-09-27T11:26:00.000Z",
+  "end_time": "2026-09-27T11:49:00.000Z",
+  "duration": 23,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 135,
+  "sessionId": 1120,
+  "break_type": "Prayer",
+  "start_time": "2026-10-18T07:39:00.000Z",
+  "end_time": "2026-10-18T08:10:00.000Z",
+  "duration": 31,
+  "reason": null
+ },
+ {
+  "id": 136,
+  "sessionId": 1121,
+  "break_type": "Prayer",
+  "start_time": "2026-10-20T07:27:00.000Z",
+  "end_time": "2026-10-20T07:38:00.000Z",
+  "duration": 11,
+  "reason": null
+ },
+ {
+  "id": 137,
+  "sessionId": 1124,
+  "break_type": "Lunch",
+  "start_time": "2026-09-30T08:52:00.000Z",
+  "end_time": "2026-09-30T09:30:00.000Z",
+  "duration": 38,
+  "reason": null
+ },
+ {
+  "id": 138,
+  "sessionId": 1124,
+  "break_type": "Prayer",
+  "start_time": "2026-09-30T10:59:00.000Z",
+  "end_time": "2026-09-30T11:28:00.000Z",
+  "duration": 29,
+  "reason": null
+ },
+ {
+  "id": 139,
+  "sessionId": 1125,
+  "break_type": "Lunch",
+  "start_time": "2026-10-11T08:49:00.000Z",
+  "end_time": "2026-10-11T09:15:00.000Z",
+  "duration": 26,
+  "reason": null
+ },
+ {
+  "id": 140,
+  "sessionId": 1125,
+  "break_type": "Short",
+  "start_time": "2026-10-11T10:56:00.000Z",
+  "end_time": "2026-10-11T11:15:00.000Z",
+  "duration": 19,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 141,
+  "sessionId": 1126,
+  "break_type": "Prayer",
+  "start_time": "2026-09-27T09:31:00.000Z",
+  "end_time": "2026-09-27T09:44:00.000Z",
+  "duration": 13,
+  "reason": null
+ },
+ {
+  "id": 142,
+  "sessionId": 1127,
+  "break_type": "Short",
+  "start_time": "2026-10-14T10:39:00.000Z",
+  "end_time": "2026-10-14T10:53:00.000Z",
+  "duration": 14,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 143,
+  "sessionId": 1128,
+  "break_type": "Prayer",
+  "start_time": "2026-10-02T09:54:00.000Z",
+  "end_time": "2026-10-02T10:25:00.000Z",
+  "duration": 31,
+  "reason": null
+ },
+ {
+  "id": 144,
+  "sessionId": 1130,
+  "break_type": "Prayer",
+  "start_time": "2026-09-27T08:32:00.000Z",
+  "end_time": "2026-09-27T08:49:00.000Z",
+  "duration": 17,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 145,
+  "sessionId": 1130,
+  "break_type": "Lunch",
+  "start_time": "2026-09-27T10:20:00.000Z",
+  "end_time": "2026-09-27T10:40:00.000Z",
+  "duration": 20,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 146,
+  "sessionId": 1131,
+  "break_type": "Lunch",
+  "start_time": "2026-10-09T11:39:00.000Z",
+  "end_time": "2026-10-09T12:08:00.000Z",
+  "duration": 29,
+  "reason": null
+ },
+ {
+  "id": 147,
+  "sessionId": 1132,
+  "break_type": "Lunch",
+  "start_time": "2026-10-06T10:42:00.000Z",
+  "end_time": "2026-10-06T11:08:00.000Z",
+  "duration": 26,
+  "reason": null
+ },
+ {
+  "id": 148,
+  "sessionId": 1133,
+  "break_type": "Short",
+  "start_time": "2026-09-25T10:57:00.000Z",
+  "end_time": "2026-09-25T11:20:00.000Z",
+  "duration": 23,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 149,
+  "sessionId": 1135,
+  "break_type": "Prayer",
+  "start_time": "2026-10-18T10:43:00.000Z",
+  "end_time": "2026-10-18T11:07:00.000Z",
+  "duration": 24,
+  "reason": null
+ },
+ {
+  "id": 150,
+  "sessionId": 1135,
+  "break_type": "Lunch",
+  "start_time": "2026-10-18T12:21:00.000Z",
+  "end_time": "2026-10-18T12:45:00.000Z",
+  "duration": 24,
+  "reason": null
+ },
+ {
+  "id": 151,
+  "sessionId": 1136,
+  "break_type": "Short",
+  "start_time": "2026-10-04T08:00:00.000Z",
+  "end_time": "2026-10-04T08:30:00.000Z",
+  "duration": 30,
+  "reason": null
+ },
+ {
+  "id": 152,
+  "sessionId": 1138,
+  "break_type": "Prayer",
+  "start_time": "2026-09-29T08:26:00.000Z",
+  "end_time": "2026-09-29T08:55:00.000Z",
+  "duration": 29,
+  "reason": null
+ },
+ {
+  "id": 153,
+  "sessionId": 1139,
+  "break_type": "Prayer",
+  "start_time": "2026-10-16T08:50:00.000Z",
+  "end_time": "2026-10-16T09:28:00.000Z",
+  "duration": 38,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 154,
+  "sessionId": 1139,
+  "break_type": "Short",
+  "start_time": "2026-10-16T11:07:00.000Z",
+  "end_time": "2026-10-16T11:26:00.000Z",
+  "duration": 19,
+  "reason": null
+ },
+ {
+  "id": 155,
+  "sessionId": 1147,
+  "break_type": "Prayer",
+  "start_time": "2026-09-30T10:26:00.000Z",
+  "end_time": "2026-09-30T11:08:00.000Z",
+  "duration": 42,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 156,
+  "sessionId": 1147,
+  "break_type": "Short",
+  "start_time": "2026-09-30T12:16:00.000Z",
+  "end_time": "2026-09-30T12:52:00.000Z",
+  "duration": 36,
+  "reason": null
+ },
+ {
+  "id": 157,
+  "sessionId": 1148,
+  "break_type": "Prayer",
+  "start_time": "2026-10-07T09:00:00.000Z",
+  "end_time": "2026-10-07T09:17:00.000Z",
+  "duration": 17,
+  "reason": "Scheduled"
+ },
+ {
+  "id": 158,
+  "sessionId": 1149,
+  "break_type": "Prayer",
+  "start_time": "2026-10-01T10:08:00.000Z",
+  "end_time": "2026-10-01T10:22:00.000Z",
+  "duration": 14,
+  "reason": null
+ },
+ {
+  "id": 159,
+  "sessionId": 1149,
+  "break_type": "Lunch",
+  "start_time": "2026-10-01T12:23:00.000Z",
+  "end_time": "2026-10-01T12:47:00.000Z",
+  "duration": 24,
+  "reason": "Scheduled"
+ }
+]

@@ -1,0 +1,101 @@
+/* Layer order: Tailwind base < PrimeNG < Tailwind utilities (configured in app.config.ts) */
+@layer tailwind-base, primeng, tailwind-utilities;
+
+@layer tailwind-base {
+  @tailwind base;
+}
+
+@layer tailwind-utilities {
+  @tailwind components;
+  @tailwind utilities;
+}
+
+/* ---------- Design tokens (single source of truth) ---------- */
+:root {
+  --fp-bg: #f5f5fb;
+  --fp-surface: #ffffff;
+  --fp-surface-2: #f0f0f8;
+  --fp-border: #e4e4f0;
+  --fp-text: #1c1b2e;
+  --fp-muted: #63627a;
+  --fp-accent: var(--p-primary-color);
+  --fp-accent-soft: var(--p-primary-50);
+  --fp-ok: #059669;
+  --fp-warn: #d97706;
+  --fp-err: #dc2626;
+  --fp-info: #0284c7;
+  --fp-radius: 14px;
+  --fp-shadow: 0 1px 2px rgb(20 16 60 / 0.05), 0 6px 20px -12px rgb(20 16 60 / 0.18);
+  --fp-sidebar-w: 248px;
+  --fp-sidebar-w-collapsed: 76px;
+  --fp-topbar-h: 64px;
+}
+
+:root.app-dark {
+  --fp-bg: #0d0c1a;
+  --fp-surface: #15142a;
+  --fp-surface-2: #1c1b35;
+  --fp-border: #2a2947;
+  --fp-text: #e8e7f5;
+  --fp-muted: #9d9bb8;
+  --fp-accent-soft: color-mix(in srgb, var(--p-primary-500) 18%, transparent);
+  --fp-shadow: 0 1px 2px rgb(0 0 0 / 0.4);
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--fp-bg);
+  color: var(--fp-text);
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.num { font-variant-numeric: tabular-nums; }
+
+/* Shared surface used by every panel */
+.fp-panel {
+  background: var(--fp-surface);
+  border: 1px solid var(--fp-border);
+  border-radius: var(--fp-radius);
+  box-shadow: var(--fp-shadow);
+}
+
+.fp-label {
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--fp-muted);
+}
+
+.fp-muted { color: var(--fp-muted); }
+
+/* Bento grid */
+.fp-grid { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); gap: 20px; }
+.fp-col-3 { grid-column: span 3; } .fp-col-4 { grid-column: span 4; } .fp-col-5 { grid-column: span 5; }
+.fp-col-7 { grid-column: span 7; } .fp-col-8 { grid-column: span 8; } .fp-col-12 { grid-column: span 12; }
+@media (max-width: 1100px) {
+  .fp-col-3, .fp-col-4, .fp-col-5 { grid-column: span 6; }
+  .fp-col-7, .fp-col-8 { grid-column: span 12; }
+}
+@media (max-width: 640px) { [class*='fp-col-'] { grid-column: span 12; } }
+
+/* Tables inside panels */
+.fp-panel .p-datatable .p-datatable-thead > tr > th {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--fp-muted);
+}
+
+:focus-visible { outline: 2px solid var(--p-primary-color); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}

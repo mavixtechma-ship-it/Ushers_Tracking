@@ -1,0 +1,134 @@
+[
+ {
+  "id": 1,
+  "name": "Riverton Central Mall",
+  "address": "552 Elm Street, Riverton",
+  "sectorId": 1,
+  "sectorName": "North Sector",
+  "latitude": 39.46746,
+  "longitude": -98.343382,
+  "geofence_range": 100,
+  "is_active": true
+ },
+ {
+  "id": 2,
+  "name": "Harbor Point Plaza",
+  "address": "134 Maple Avenue, Riverton",
+  "sectorId": 2,
+  "sectorName": "South Sector",
+  "latitude": 39.48605,
+  "longitude": -98.381312,
+  "geofence_range": 150,
+  "is_active": true
+ },
+ {
+  "id": 3,
+  "name": "Maple Grove Market",
+  "address": "363 Harbor Road, Riverton",
+  "sectorId": 3,
+  "sectorName": "East Sector",
+  "latitude": 39.484922,
+  "longitude": -98.321487,
+  "geofence_range": 120,
+  "is_active": true
+ },
+ {
+  "id": 4,
+  "name": "Sunset Boulevard Store",
+  "address": "574 Cedar Lane, Riverton",
+  "sectorId": 4,
+  "sectorName": "West Sector",
+  "latitude": 39.488631,
+  "longitude": -98.382167,
+  "geofence_range": 75,
+  "is_active": true
+ },
+ {
+  "id": 5,
+  "name": "Oakridge Hypermarket",
+  "address": "611 Sunset Boulevard, Riverton",
+  "sectorId": 5,
+  "sectorName": "Central Sector",
+  "latitude": 39.448847,
+  "longitude": -98.382129,
+  "geofence_range": 200,
+  "is_active": true
+ },
+ {
+  "id": 6,
+  "name": "Lakeside Galleria",
+  "address": "774 Oak Drive, Riverton",
+  "sectorId": 1,
+  "sectorName": "North Sector",
+  "latitude": 39.53382,
+  "longitude": -98.370864,
+  "geofence_range": 150,
+  "is_active": true
+ },
+ {
+  "id": 7,
+  "name": "Pine Hill Center",
+  "address": "857 Lakeview Parkway, Riverton",
+  "sectorId": 2,
+  "sectorName": "South Sector",
+  "latitude": 39.525758,
+  "longitude": -98.324961,
+  "geofence_range": 75,
+  "is_active": true
+ },
+ {
+  "id": 8,
+  "name": "Westgate Retail Park",
+  "address": "321 Pine Street, Riverton",
+  "sectorId": 3,
+  "sectorName": "East Sector",
+  "latitude": 39.509133,
+  "longitude": -98.304378,
+  "geofence_range": 100,
+  "is_active": true
+ },
+ {
+  "id": 9,
+  "name": "Cedar Square",
+  "address": "583 Market Square, Riverton",
+  "sectorId": 4,
+  "sectorName": "West Sector",
+  "latitude": 39.544256,
+  "longitude": -98.36786,
+  "geofence_range": 75,
+  "is_active": true
+ },
+ {
+  "id": 10,
+  "name": "Northfield Outlet",
+  "address": "869 Station Road, Riverton",
+  "sectorId": 5,
+  "sectorName": "Central Sector",
+  "latitude": 39.484966,
+  "longitude": -98.365397,
+  "geofence_range": 120,
+  "is_active": true
+ },
+ {
+  "id": 11,
+  "name": "Bayview Mart",
+  "address": "13 River Walk, Riverton",
+  "sectorId": 1,
+  "sectorName": "North Sector",
+  "latitude": 39.504449,
+  "longitude": -98.332871,
+  "geofence_range": 150,
+  "is_active": false
+ },
+ {
+  "id": 12,
+  "name": "Eastwood Commons",
+  "address": "101 Hillcrest Way, Riverton",
+  "sectorId": 2,
+  "sectorName": "South Sector",
+  "latitude": 39.453896,
+  "longitude": -98.298668,
+  "geofence_range": 150,
+  "is_active": true
+ }
+]
