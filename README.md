@@ -51,3 +51,12 @@ Writes (create, edit, toggle, delete) live only for the browser tab. The viewer 
   A real deployment needs server-side authentication and authorisation.
 
 See `PROJECT_ANALYSIS.md` for the full before/after analysis.
+
+## Developed by Mavix Tech
+
+[![Mavix Tech](docs/mavix-logo.png)](https://mavixtechma-ship-it.github.io/Mavix/)
+
+**Systems · Automation · Graduation Projects**
+
+Custom business systems, workflow automation and complete graduation projects. ASP.NET, Angular, SQL Server.
+Have an idea? Let's build it: [mavixtechma-ship-it.github.io/Mavix](https://mavixtechma-ship-it.github.io/Mavix/)

@@ -12,6 +12,8 @@ import { AuthService } from '../core/services/auth.service';
 import { ThemeService } from '../core/theme/theme.service';
 import { LogoComponent } from '../shared/ui/logo.component';
 import { InitialsPipe } from '../shared/ui/initials.pipe';
+import { AboutDialogComponent } from '../shared/ui/about-dialog.component';
+import { OWNER } from '../core/owner';
 
 interface NavItem { page: string; label: string; icon: string; }
 interface NavGroup { label: string; items: NavItem[]; }
@@ -21,7 +23,7 @@ const COLLAPSE_KEY = 'fp.sidebar.collapsed';
 @Component({
   selector: 'app-main-layout',
   standalone: true,
-  imports: [RouterOutlet, RouterLink, RouterLinkActive, BreadcrumbModule, ButtonModule, MenuModule, AvatarModule, TooltipModule, LogoComponent, InitialsPipe],
+  imports: [RouterOutlet, RouterLink, RouterLinkActive, BreadcrumbModule, ButtonModule, MenuModule, AvatarModule, TooltipModule, LogoComponent, InitialsPipe, AboutDialogComponent],
   template: `
     <div class="shell" [class.collapsed]="collapsed()" [class.mobile-open]="mobileOpen()">
       <aside class="sidebar" aria-label="Main navigation">
@@ -49,6 +51,14 @@ const COLLAPSE_KEY = 'fp.sidebar.collapsed';
           <i class="pi" [class.pi-angle-double-left]="!collapsed()" [class.pi-angle-double-right]="collapsed()"></i>
           <span class="nav-text">Collapse</span>
         </button>
+
+        <a class="mx-badge" [href]="owner.url" target="_blank" rel="noopener noreferrer"
+          [attr.aria-label]="'Powered by ' + owner.name + ' (opens in a new tab)'"
+          [pTooltip]="collapsed() ? 'Powered by ' + owner.name : ''" tooltipPosition="right">
+          <img [src]="theme.dark() ? owner.markDark : owner.mark" alt="" width="24" height="24" class="mx-mark" />
+          <span class="mx-powered nav-text">Powered by</span>
+          <img [src]="theme.dark() ? owner.logoDark : owner.logo" alt="" width="67" height="22" class="mx-logo nav-text" />
+        </a>
       </aside>
 
       <div class="backdrop" (click)="mobileOpen.set(false)" aria-hidden="true"></div>
@@ -84,6 +94,8 @@ const COLLAPSE_KEY = 'fp.sidebar.collapsed';
         </main>
       </div>
     </div>
+
+    <fp-about-dialog [(visible)]="aboutOpen" />
   `,
   styles: [`
     :host { display: block; }
@@ -109,6 +121,15 @@ const COLLAPSE_KEY = 'fp.sidebar.collapsed';
     .collapse-btn { display: flex; align-items: center; gap: 12px; margin: 12px; padding: 9px 12px; border-radius: 10px; border: 1px dashed var(--fp-border);
       background: transparent; color: var(--fp-muted); cursor: pointer; font: inherit; }
     .collapse-btn:hover { color: var(--fp-text); background: var(--fp-surface-2); }
+    .mx-badge { display: flex; align-items: center; justify-content: center; gap: 8px; margin: 0 12px 12px; padding: 8px 10px;
+      border-radius: 10px; text-decoration: none; border: 1px solid color-mix(in srgb, #1E5EFF 20%, transparent);
+      background: linear-gradient(135deg, color-mix(in srgb, #1E5EFF 7%, transparent), color-mix(in srgb, #38BDF8 7%, transparent)); }
+    .mx-badge:hover { border-color: color-mix(in srgb, #1E5EFF 45%, transparent); }
+    .mx-badge:focus-visible { outline: 2px solid #38BDF8; outline-offset: 2px; }
+    .mx-powered { font-size: 11px; font-weight: 500; color: var(--fp-muted); white-space: nowrap; }
+    .mx-logo { display: block; height: 22px; width: auto; }
+    .mx-mark { display: none; width: 24px; height: 24px; }
+    .collapsed .mx-mark { display: block; }
     .main { flex: 1; min-width: 0; display: flex; flex-direction: column; }
     .topbar { position: sticky; top: 0; z-index: 30; height: var(--fp-topbar-h); display: flex; align-items: center; gap: 8px;
       padding-inline: 24px; background: color-mix(in srgb, var(--fp-bg) 82%, transparent); backdrop-filter: blur(8px);
@@ -130,6 +151,7 @@ const COLLAPSE_KEY = 'fp.sidebar.collapsed';
       .mobile-open .sidebar { transform: none; box-shadow: 0 10px 40px rgb(0 0 0 / .25); }
       .mobile-open .backdrop { display: block; position: fixed; inset: 0; background: rgb(10 8 30 / .4); z-index: 35; }
       .collapsed .nav-text { display: inline; }
+      .collapsed .mx-mark { display: none; }
       .collapse-btn { display: none; }
       :host ::ng-deep .menu-btn { display: inline-flex; }
       .topbar { padding-inline: 12px; }
@@ -146,6 +168,8 @@ export class MainLayoutComponent {
 
   readonly collapsed = signal(this.readCollapsed());
   readonly mobileOpen = signal(false);
+  readonly aboutOpen = signal(false);
+  readonly owner = OWNER;
   readonly home: MenuItem = { icon: 'pi pi-home', routerLink: '/dashboard', ariaLabel: 'Home' } as MenuItem;
 
   private readonly groups: NavGroup[] = [
@@ -203,6 +227,7 @@ export class MainLayoutComponent {
       label: this.auth.currentUser()?.username ?? '',
       items: [
         { label: this.theme.dark() ? 'Light mode' : 'Dark mode', icon: this.theme.dark() ? 'pi pi-sun' : 'pi pi-moon', command: () => this.theme.toggle() },
+        { label: 'About', icon: 'pi pi-info-circle', command: () => this.aboutOpen.set(true) },
         { separator: true },
         { label: 'Sign out', icon: 'pi pi-sign-out', command: () => this.auth.logout() },
       ],

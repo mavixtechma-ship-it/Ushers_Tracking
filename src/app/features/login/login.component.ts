@@ -10,6 +10,7 @@ import { InputIconModule } from 'primeng/inputicon';
 import { AuthService } from '../../core/services/auth.service';
 import { ThemeService } from '../../core/theme/theme.service';
 import { LogoComponent } from '../../shared/ui/logo.component';
+import { OWNER } from '../../core/owner';
 
 @Component({
   selector: 'app-login',
@@ -70,6 +71,17 @@ import { LogoComponent } from '../../shared/ui/logo.component';
           <p class="fp-muted text-xs mt-6 mb-0">Demo accounts: <strong>admin</strong> (full access) and
             <strong>viewer</strong> (read-only). Passwords are in the project's <code>CREDENTIALS.md</code>.</p>
         </form>
+
+        <aside class="built-by" [attr.aria-label]="'Built by ' + owner.name">
+          <span class="text-xs fp-muted">Built by</span>
+          <a [href]="owner.url" target="_blank" rel="noopener noreferrer" class="mx-link">
+            <img [src]="theme.dark() ? owner.logoDark : owner.logo" [alt]="owner.name" width="98" height="32" />
+          </a>
+          <span class="mx-tagline">{{ owner.tagline }}</span>
+          <a [href]="owner.url" target="_blank" rel="noopener noreferrer" class="mx-visit">
+            Visit {{ owner.name }} <i class="pi pi-external-link" aria-hidden="true"></i>
+          </a>
+        </aside>
       </section>
     </div>
   `,
@@ -89,7 +101,16 @@ import { LogoComponent } from '../../shared/ui/logo.component';
     .panel { display: flex; flex-direction: column; padding: 24px 32px; background: var(--fp-bg); }
     .panel-top { display: flex; align-items: center; }
     .mobile-logo { display: none; }
-    .form { margin: auto; width: 100%; max-width: 380px; padding-block: 32px; }
+    .form { margin: auto auto 0; width: 100%; max-width: 380px; padding-block: 32px 16px; }
+    .built-by { margin: 0 auto auto; width: 100%; max-width: 380px; padding: 16px 0 8px; display: flex; flex-direction: column;
+      align-items: center; gap: 6px; text-align: center; border-top: 1px solid var(--fp-border); }
+    .built-by img { display: block; height: 32px; width: auto; }
+    .mx-link { display: inline-flex; border-radius: 6px; }
+    .mx-tagline { font-size: 12px; font-weight: 500; color: #1E5EFF; }
+    .mx-visit { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; font-weight: 600; color: #1E5EFF; text-decoration: none; }
+    :host-context(.app-dark) .mx-tagline, :host-context(.app-dark) .mx-visit { color: #38BDF8; }
+    .mx-visit:hover { text-decoration: underline; }
+    .mx-visit i { font-size: 10px; }
     @media (max-width: 900px) {
       .login { grid-template-columns: 1fr; }
       .hero { display: none; }
@@ -102,6 +123,7 @@ export class LoginComponent {
   readonly auth = inject(AuthService);
   readonly theme = inject(ThemeService);
   private readonly router = inject(Router);
+  readonly owner = OWNER;
 
   username = '';
   password = '';
